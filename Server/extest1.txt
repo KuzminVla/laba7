@@ -1,0 +1,3 @@
+execute_script extest.txt
+info
+execute_script extest1.txt
